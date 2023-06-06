@@ -1,0 +1,8 @@
+.boxContainer { 
+    border: "1px solid",
+        height: "100px",
+        width: "100%",
+        display: "flex",
+        justify-Content: "center",
+        alignItems: "center"
+    }
